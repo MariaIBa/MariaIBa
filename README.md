@@ -1,4 +1,4 @@
-#Sobre mim:
+_Sobre mim_ :white_heart:
 - 👋 Olá, me chame de Iba!
 - 👀 Estou aprendendo sobre as Linguagens de Programação.
 - 🌱 Quero aprender mais sobre Informática.
